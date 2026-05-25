@@ -60,6 +60,7 @@ The notebook is designed to run on Google Colab with the data files mounted from
 
 ## Repository structure
 
+```bash
 ├── wana_solar_analysis.ipynb    # main notebook
 ├── data/
 │   ├── raw/                     # input data (GSA Excel)
@@ -67,6 +68,7 @@ The notebook is designed to run on Google Colab with the data files mounted from
 ├── requirements.txt
 ├── dashboard.png
 └── README.md
+```
 
 ## Tech stack
 
