@@ -1,0 +1,103 @@
+ranking,iso3,country,rank,score
+resource,JOR,Jordan,1,100.0
+resource,EGY,Egypt,2,93.11353095382127
+resource,YEM,Yemen,3,89.78624722726354
+resource,SAU,Saudi Arabia,4,84.25085702762652
+resource,LBY,Libya,5,80.77233313167972
+resource,MAR,Morocco,6,68.89493849566442
+resource,ARE,United Arab Emirates,7,68.67311958056055
+resource,QAT,Qatar,8,59.911272433958416
+resource,DZA,Algeria,9,59.84069368824353
+resource,IRN,Iran,10,59.760032264569425
+resource,BHR,Bahrain,11,54.99092558983663
+resource,LBN,Lebanon,12,51.25025206694898
+resource,KWT,Kuwait,13,49.63702359346642
+resource,TUN,Tunisia,14,42.478322242387605
+resource,ETH,Ethiopia,15,37.52772736438799
+resource,IRQ,Iraq,16,35.8035894333535
+resource,TUR,Turkey,17,0.0
+market_scale,SAU,Saudi Arabia,1,58.86661583020203
+market_scale,TUR,Turkey,2,58.19725270970674
+market_scale,EGY,Egypt,3,42.10530448759791
+market_scale,IRN,Iran,4,40.90396035904207
+market_scale,ARE,United Arab Emirates,5,38.30505951065063
+market_scale,ETH,Ethiopia,6,36.58690411775959
+market_scale,QAT,Qatar,7,34.53239145218203
+market_scale,BHR,Bahrain,8,34.059616505255136
+market_scale,KWT,Kuwait,9,28.646446103145706
+market_scale,DZA,Algeria,10,20.544847034174552
+market_scale,IRQ,Iraq,11,20.18969879624719
+market_scale,MAR,Morocco,12,14.230999917144773
+market_scale,YEM,Yemen,13,10.051938036786549
+market_scale,LBY,Libya,14,7.532709594468083
+market_scale,JOR,Jordan,15,6.007780622777958
+market_scale,TUN,Tunisia,16,5.795363254776497
+market_scale,LBN,Lebanon,17,2.382178657827477
+untapped,LBY,Libya,1,100.0
+untapped,IRN,Iran,2,44.429498866318404
+untapped,KWT,Kuwait,3,38.750537602416266
+untapped,ETH,Ethiopia,4,36.18824835156824
+untapped,BHR,Bahrain,5,35.85329652214027
+untapped,IRQ,Iraq,6,32.318576175562384
+untapped,SAU,Saudi Arabia,7,15.276320700607958
+untapped,DZA,Algeria,8,11.865580859020097
+untapped,EGY,Egypt,9,5.199772427704019
+untapped,TUN,Tunisia,10,4.474043462354934
+untapped,QAT,Qatar,11,3.0930017166772403
+untapped,MAR,Morocco,12,1.9632323739317705
+untapped,TUR,Turkey,13,1.3297172891444984
+untapped,ARE,United Arab Emirates,14,0.9150472705294628
+untapped,YEM,Yemen,15,0.74421350789273
+untapped,JOR,Jordan,16,0.376274309332359
+untapped,LBN,Lebanon,17,0.0
+execution_readiness,BHR,Bahrain,1,100.0
+execution_readiness,QAT,Qatar,2,95.12028500375436
+execution_readiness,KWT,Kuwait,3,90.41264742738599
+execution_readiness,ARE,United Arab Emirates,4,82.45014608507876
+execution_readiness,SAU,Saudi Arabia,5,76.97227145580659
+execution_readiness,TUR,Turkey,6,66.96405608532028
+execution_readiness,JOR,Jordan,7,66.05555356298514
+execution_readiness,LBN,Lebanon,8,63.81210496749239
+execution_readiness,IRN,Iran,9,61.95309643530641
+execution_readiness,DZA,Algeria,10,58.235959845420275
+execution_readiness,TUN,Tunisia,11,55.90862794543727
+execution_readiness,IRQ,Iraq,12,55.47635602312908
+execution_readiness,MAR,Morocco,13,51.80929551992835
+execution_readiness,LBY,Libya,14,46.74381437564006
+execution_readiness,EGY,Egypt,15,43.87767817971417
+execution_readiness,YEM,Yemen,16,26.93010773826037
+execution_readiness,ETH,Ethiopia,17,0.03302005283700925
+trajectory,LBN,Lebanon,1,100.0
+trajectory,ARE,United Arab Emirates,2,44.41176556545908
+trajectory,JOR,Jordan,3,43.55097404252447
+trajectory,QAT,Qatar,4,27.13681808062514
+trajectory,TUR,Turkey,5,26.513928684316205
+trajectory,MAR,Morocco,6,22.84439570345665
+trajectory,EGY,Egypt,7,21.76513032616859
+trajectory,TUN,Tunisia,8,21.6651698302942
+trajectory,SAU,Saudi Arabia,9,16.820792736517912
+trajectory,BHR,Bahrain,10,14.935500312093811
+trajectory,IRQ,Iraq,11,14.91480827077602
+trajectory,KWT,Kuwait,12,14.691561999743728
+trajectory,IRN,Iran,13,14.54761666794661
+trajectory,ETH,Ethiopia,14,14.457238229502527
+trajectory,DZA,Algeria,15,14.158075896826851
+trajectory,LBY,Libya,16,14.126707371077526
+trajectory,YEM,Yemen,17,0.0
+demand_pressure,KWT,Kuwait,1,85.61897114107899
+demand_pressure,BHR,Bahrain,2,80.38646103260123
+demand_pressure,ARE,United Arab Emirates,3,68.69982134442236
+demand_pressure,SAU,Saudi Arabia,4,67.23782050249363
+demand_pressure,QAT,Qatar,5,43.1460207491419
+demand_pressure,YEM,Yemen,6,27.130744235649146
+demand_pressure,ETH,Ethiopia,7,23.577509510984154
+demand_pressure,IRQ,Iraq,8,23.200111748095516
+demand_pressure,IRN,Iran,9,19.200994731075895
+demand_pressure,JOR,Jordan,10,18.5734426228035
+demand_pressure,LBY,Libya,11,18.474967052629736
+demand_pressure,EGY,Egypt,12,18.45590019855812
+demand_pressure,DZA,Algeria,13,17.503687546904416
+demand_pressure,TUR,Turkey,14,11.619142639828645
+demand_pressure,MAR,Morocco,15,11.469108809173658
+demand_pressure,TUN,Tunisia,16,9.690830701138367
+demand_pressure,LBN,Lebanon,17,6.824084323436552

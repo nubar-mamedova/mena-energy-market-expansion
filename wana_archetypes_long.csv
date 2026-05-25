@@ -1,0 +1,69 @@
+iso3,country,score,rank,archetype
+ARE,United Arab Emirates,57.18625071787566,4.0,developmentbank
+BHR,Bahrain,65.8732139771899,1.0,developmentbank
+DZA,Algeria,33.080908631129695,12.0,developmentbank
+EGY,Egypt,34.25564094446816,11.0,developmentbank
+ETH,Ethiopia,20.189707617497387,17.0,developmentbank
+IRN,Iran,41.57176337246446,7.0,developmentbank
+IRQ,Iraq,34.38153082033463,10.0,developmentbank
+JOR,Jordan,39.47234333752651,8.0,developmentbank
+KWT,Kuwait,63.63862082348357,2.0,developmentbank
+LBN,Lebanon,36.2128956435845,9.0,developmentbank
+LBY,Libya,43.88506108557199,6.0,developmentbank
+MAR,Morocco,29.301584125988267,14.0,developmentbank
+QAT,Qatar,51.94458914258993,5.0,developmentbank
+SAU,Saudi Arabia,58.18641122689123,3.0,developmentbank
+TUN,Tunisia,26.860288111014842,15.0,developmentbank
+TUR,Turkey,31.664578218327215,13.0,developmentbank
+YEM,Yemen,24.957168932979318,16.0,developmentbank
+ARE,United Arab Emirates,61.78321676955302,3.0,ippdeveloper
+BHR,Bahrain,65.02353637804717,2.0,ippdeveloper
+DZA,Algeria,44.11434608336256,10.0,ippdeveloper
+EGY,Egypt,53.41739351544612,8.0,ippdeveloper
+ETH,Ethiopia,23.502738702893232,17.0,ippdeveloper
+IRN,Iran,50.682766452232194,9.0,ippdeveloper
+IRQ,Iraq,37.49074219414176,14.0,ippdeveloper
+JOR,Jordan,59.48996452651314,5.0,ippdeveloper
+KWT,Kuwait,60.532926070580324,4.0,ippdeveloper
+LBN,Lebanon,43.001846011806265,13.0,ippdeveloper
+LBY,Libya,55.60056394204357,7.0,ippdeveloper
+MAR,Morocco,43.5645710246589,11.0,ippdeveloper
+QAT,Qatar,58.93901314884313,6.0,ippdeveloper
+SAU,Saudi Arabia,67.55859673656752,1.0,ippdeveloper
+TUN,Tunisia,34.71928340180854,15.0,ippdeveloper
+TUR,Turkey,28.529524523679882,16.0,ippdeveloper
+YEM,Yemen,43.29690842905319,12.0,ippdeveloper
+ARE,United Arab Emirates,57.719805720620776,2.0,hyperscalerppa
+BHR,Bahrain,57.293248573499355,3.0,hyperscalerppa
+DZA,Algeria,38.81440577829227,10.0,hyperscalerppa
+EGY,Egypt,52.53502142591802,6.0,hyperscalerppa
+ETH,Ethiopia,27.131018735363625,17.0,hyperscalerppa
+IRN,Iran,47.458772323965576,8.0,hyperscalerppa
+IRQ,Iraq,32.57493807063249,15.0,hyperscalerppa
+JOR,Jordan,49.067151579303605,7.0,hyperscalerppa
+KWT,Kuwait,52.80157248867673,5.0,hyperscalerppa
+LBN,Lebanon,34.53455864327507,13.0,hyperscalerppa
+LBY,Libya,43.394107766789205,9.0,hyperscalerppa
+MAR,Morocco,37.68693291261522,12.0,hyperscalerppa
+QAT,Qatar,53.183249231372315,4.0,hyperscalerppa
+SAU,Saudi Arabia,66.65833387061554,1.0,hyperscalerppa
+TUN,Tunisia,27.939874972982977,16.0,hyperscalerppa
+TUR,Turkey,33.40608359263198,14.0,hyperscalerppa
+YEM,Yemen,38.087762225826644,11.0,hyperscalerppa
+ARE,United Arab Emirates,39.4108585028678,5.0,esgfund
+BHR,Bahrain,42.18033936303952,3.0,esgfund
+DZA,Algeria,23.41961583822836,13.0,esgfund
+EGY,Egypt,27.844712208130932,10.0,esgfund
+ETH,Ethiopia,24.966162078918103,12.0,esgfund
+IRN,Iran,35.87494303927888,7.0,esgfund
+IRQ,Iraq,27.636990933984052,11.0,esgfund
+JOR,Jordan,32.24185218641371,9.0,esgfund
+KWT,Kuwait,41.46413870715571,4.0,esgfund
+LBN,Lebanon,42.42686200157054,2.0,esgfund
+LBY,Libya,49.590394626765026,1.0,esgfund
+MAR,Morocco,22.082722697407647,14.0,esgfund
+QAT,Qatar,32.33994290309438,8.0,esgfund
+SAU,Saudi Arabia,38.361890512750634,6.0,esgfund
+TUN,Tunisia,19.229078402168714,16.0,esgfund
+TUR,Turkey,22.031138935523778,15.0,esgfund
+YEM,Yemen,15.613167776163781,17.0,esgfund
