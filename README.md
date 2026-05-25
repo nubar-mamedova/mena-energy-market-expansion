@@ -2,7 +2,7 @@
 
 A six-lens framework for evaluating utility-scale solar investment opportunities across 17 West Asia and North Africa countries.
 
-**Live dashboard:** [View on Tableau Public](PASTE_YOUR_TABLEAU_URL_HERE)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/WANAProject/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard preview](dashboard.png)
 
