@@ -50,7 +50,7 @@ The MENA region holds some of the world's best solar resources but lags in deplo
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wana-solar-investment-analysis.git
+git clone https://github.com/nubar-mamedova/wana-solar-investment-analysis.git
 cd wana-solar-investment-analysis
 pip install -r requirements.txt
 jupyter notebook wana_solar_analysis.ipynb
@@ -59,3 +59,15 @@ jupyter notebook wana_solar_analysis.ipynb
 The notebook is designed to run on Google Colab with the data files mounted from Google Drive. To run locally, edit the `DATAPATH` and `PROCESSEDPATH` variables in cell 2.
 
 ## Repository structure
+
+├── wana_solar_analysis.ipynb    # main notebook
+├── data/
+│   ├── raw/                     # input data (GSA Excel)
+│   └── processed/               # output CSVs (master, rankings, archetypes)
+├── requirements.txt
+├── dashboard.png
+└── README.md
+
+## Tech stack
+
+Python (pandas, wbgapi, openpyxl) · Tableau Public · World Bank API
