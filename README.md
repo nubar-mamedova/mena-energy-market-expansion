@@ -4,7 +4,8 @@ A six-lens framework for evaluating utility-scale solar investment opportunities
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/WANAProject/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard preview](dashboard.png)
+<img width="2872" height="1372" alt="image" src="https://github.com/user-attachments/assets/350939b3-0813-452b-8f82-3c12a473c467" />
+
 
 ## Motivation
 
