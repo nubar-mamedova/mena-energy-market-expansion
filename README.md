@@ -48,6 +48,23 @@ The MENA region holds some of the world's best solar resources but lags in deplo
 - GSA data is 2018; World Bank indicators are latest available (mostly 2022-2023).
 - Per-capita indicators favor small Gulf states; absolute scale would shift rankings.
 
+## AI-assisted narrative layer
+
+`wana_ai_narrative.py` adds an optional layer on top of the ranking output: 
+for each investor archetype, it sends the top-3 ranked countries and their 
+scores to Claude (Anthropic API) and generates a short, decision-ready 
+written recommendation — the kind of note a real analyst would hand to an 
+investment committee, including one honest caveat (data limitation, 
+concentration risk, or a runner-up worth watching).
+
+Requires an `ANTHROPIC_API_KEY` environment variable.
+
+```bash
+pip install anthropic
+export ANTHROPIC_API_KEY=sk-ant-...
+python wana_ai_narrative.py
+```
+
 ## How to run
 
 ```bash
@@ -63,6 +80,7 @@ The notebook is designed to run on Google Colab with the data files mounted from
 
 ```bash
 ├── wana_solar_analysis.ipynb    # main notebook
+├── wana_ai_narrative.py         # LLM narrative layer (Claude API)
 ├── data/
 │   ├── raw/                     # input data (GSA Excel)
 │   └── processed/               # output CSVs (master, rankings, archetypes)
