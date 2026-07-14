@@ -6,11 +6,6 @@ narrative: for each investor archetype, it turns the top-3 ranking + Monte
 Carlo robustness data into a short, decision-ready written recommendation,
 the way a real analyst would hand it to an investment committee.
 
-This is the "AI-augmented analysis pipeline" layer worth adding to the CV:
-you're not just running a model, you're using an LLM to turn structured
-ranking output into a defensible written recommendation — the same pattern
-recruiters mean when they say "AI pilotage" of a business process.
-
 Usage:
 export ANTHROPIC_API_KEY=sk-ant-...
 python wana_ai_narrative.py
