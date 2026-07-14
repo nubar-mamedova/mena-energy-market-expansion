@@ -85,7 +85,6 @@ The notebook is designed to run on Google Colab with the data files mounted from
 │   ├── raw/                     # input data (GSA Excel)
 │   └── processed/               # output CSVs (master, rankings, archetypes)
 ├── requirements.txt
-├── dashboard.png
 └── README.md
 ```
 
